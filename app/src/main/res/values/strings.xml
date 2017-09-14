@@ -1,0 +1,71 @@
+<resources>
+    <!-- Name of the app and activities -->
+    <string name="app_name">Inventory App</string>
+    <string name="details_name">Product Details</string>
+    <string name="new_product_name">Add a new Product</string>
+
+    <!-- Button texts -->
+    <string name="button_sale">Sale</string>
+    <string name="button_increase">Add</string>
+    <string name="button_decrease">Del</string>
+    <string name="button_send_order">Send Order</string>
+    <string name="button_remove_product">Remove product</string>
+    <string name="button_save_product">Save product</string>
+
+    <!-- Fixed Strings for displaying information -->
+    <string name="in_stock">in stock</string>
+    <string name="currency_sign_separator">€,</string>
+    <string name="hint_count">count</string>
+    <string name="hint_in_stock">In stock</string>
+    <string name="hint_price">Product price</string>
+    <string name="hint_name"> Product name</string>
+    <string name="hint_provider_name">Provider name</string>
+    <string name="hint_provider_email">Provider email</string>
+    <string name="unit_currency">€</string>
+    <string name="unit_items">items</string>
+    <string name="select_category">Select image</string>
+
+    <!-- User messages -->
+    <string name="message_no_products">Currently no products</string>
+    <string name="product_details">Product details</string>
+    <string name="modify_stock">Modify product stock</string>
+    <string name="order_product">Product supplier support</string>
+    <string name="more">More</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+    <string name="editor_delete_product_failed">Could not delete product</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_name_msg">Please enter a product name</string>
+    <string name="invalid_price_msg">Please enter a valid price</string>
+    <string name="invalid_stock_msg">Please enter a valid quantity</string>
+    <string name="invalid_supplier_msg">Please enter a supplier</string>
+    <string name="invalid_email_msg">Please enter a valid email address</string>
+    <string name="insert_product_successful">Product was created</string>
+    <string name="insert_product_failed">Could not create product</string>
+    <string name="update_product_successful">Product was updated</string>
+    <string name="update_product_failed">Could not update product</string>
+    <string name="update_stock_successful">Stock was updated</string>
+    <string name="update_stock_failed">Could not update Stock</string>
+    <string name="select_category_image">Please select a product image</string>
+
+    <!-- Image category strings -->
+    <string name="tools">Tools</string>
+    <string name="electronics">Electronics</string>
+    <string name="food">Food</string>
+
+
+    <!-- Email strings -->
+    <string name="mail_to">mailto</string>
+    <string name="subject">Please send %1$s times %2$s</string>
+    <string name="sending_mail">Send Email &#8230;</string>
+
+    <!-- Placeholder strings -->
+    <string name="product_name_placeholder">The product name</string>
+    <string name="product_price_placeholder">0,00</string>
+    <string name="product_stock_placeholder">0</string>
+
+</resources>

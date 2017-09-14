@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Spacing -->
+    <dimen name="button_sale_width">100dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="distance_very_small">4dp</dimen>
+    <dimen name="distance_small">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="highlight_off_width_height">48dp</dimen>
+    <dimen name="details_indent">32dp</dimen>
+    <dimen name="image_width">32dp</dimen>
+
+    <!-- Test size -->
+    <dimen name="text_size_name">20sp</dimen>
+    <dimen name="text_size_details">16sp</dimen>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_image_options">
+        <item>@string/tools</item>
+        <item>@string/electronics</item>
+        <item>@string/food</item>
+    </string-array>
+</resources>
